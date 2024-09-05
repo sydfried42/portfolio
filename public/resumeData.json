@@ -100,26 +100,26 @@
       {
         "title":"DiscNY Ultimate Frisbee Volunteer Tracker Tool",
         "category":"Full stack application to efficiently organize volunteer hours and track as redeemable points for activities and events",
-        "image":"01.jpg",
+        "image":"volunteer.png",
         "url":"https://github.com/sydfried42/ultimate-volunteer-tracker"
       },
       {
         "title":"DiscNY High School Ultimate Frisbee League Admin Tool",
         "category":"Full stack application for league registration and organization",
-        "image":"02.jpg",
+        "image":"hsl.png",
         "url":"https://github.com/sydfried42/DiscNY-High-School-Ultimate-Frisbee-League-Admin-Tool"
       },
       {
         "title":"Pantry2Plate",
         "category":"Full stack application allowing users to input pantry items, select desired ingredients, and find recipes",
-        "image":"03.jpg",
+        "image":"pantry.png",
         "url":"https://plate.sydneylfriedman.com/"
       },
       {
         "title":"Mario Brick Pygame",
         "category":"A Mario themed brickbreaker pygame",
-        "image":"04.jpg",
-        "url":""
+        "image":"mario.png",
+        "url":"https://github.com/sydfried42/Mario-Brick-PyGame"
       }
     ]
   }
