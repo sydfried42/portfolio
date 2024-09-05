@@ -1,17 +1,17 @@
 {
   "main": {
     "name":"Sydney Friedman",
-    "description":"As a fullstack software engineer with a background in film editing, I craft code with the same creative precision and pattern recognition I apply to storytelling.",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "description":"As a fullstack software engineer with a background in film editing, my code is crafted with the same creative precision and pattern recognition I apply to storytelling",
+    "image":"profile.jpg",
+    "bio": "",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "email": "friedman.sydneyl@gmail.com",
+    "phone": "248-709-8873",
+    "github":"https://github.com/sydfried42",
+    "project":"https://www.linkedin.com/in/sydney-friedman/",
     "address":{
       "street":"(Your Street)",
-      "city":"Jackson Heights, Queens",
+      "city":"Queens",
       "state":"New York",
       "zip": "11372"
     },
@@ -50,7 +50,7 @@
     "education":[
       {
         "school":"University of Michigan",
-        "degree":"Bat of the Arts; Screen Art and Culture",
+        "degree":"Bachelors of the Arts; Screen Arts and Culture",
         "graduated":"April 2015",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
