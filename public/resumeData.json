@@ -1,12 +1,12 @@
 {
   "main": {
     "name":"Sydney Friedman",
-    "description":"As a fullstack software engineer with a background in film editing, my code is crafted with the same creative precision and pattern recognition I apply to storytelling",
+    "description":"A fullstack software engineer with code crafted in the same creative precision and pattern recognition as applied to storytelling",
     "image":"profile.jpg",
     "bio": "",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Don`t hesitate to get in touch. Let`s create, innovate, and grow together!",
     "email": "friedman.sydneyl@gmail.com",
-    "phone": "248-709-8873",
+    "phone": "",
     "github":"https://github.com/sydfried42",
     "project":"https://www.linkedin.com/in/sydney-friedman/",
     "address":{
@@ -18,61 +18,54 @@
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
-      {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
+      
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/sydney-friedman/",
         "className":"fa fa-linkedin"
       },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
+      
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/sydfried42",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Designing and developing interactive web applications with JavaScript, React, and Python Flask, implementing robust APIs, dynamic user interfaces, and ensuring data accuracy and security through meticulous backend integration.",
     "education":[
-      {
-        "school":"University of Michigan",
-        "degree":"Bachelors of the Arts; Screen Arts and Culture",
-        "graduated":"April 2015",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
       {
         "school":"Flatiron School",
         "degree":"Software Engineering",
         "graduated":"May 2024",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"15-week intensive software engineering program covering full-stack web development, including HTML, CSS, JavaScript, React, Python, Flask, and SQL. Gained proficiency in building, testing, and deploying software applications through hands-on projects and pair programming, with an emphasis on collaboration and problem-solving."
+      },
+      {
+        "school":"University of Michigan",
+        "degree":"BA Screen Arts and Culture",
+        "graduated":"April 2015",
+        "description":"Developed a keen ability to integrate theoretical knowledge, historical context, and critical thinking with hands-on experience in industry-standard team projects, refining skills in film editing and collaborative production."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"DiscNY",
+        "title":"Volunteer, High School League Commissioner",
+        "years":"2018 - Present",
+        "description":"Developed and managed web applications to streamline both internal and external structures, focusing on registration and volunteer organization. In organizing youth, coordinated and communicated efficiently across four divisions, 27 schools, and 42 teams using multiple platforms. Oversaw and supported coaches and team captains to ensure effective leadership and adherence to the `Spirit of the Game` on and off the field."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"FedUp Collective",
+        "title":"Technical Lead",
+        "years":"2020 - 2022",
+        "description":"Managed the company website to ensure it accurately represented team operations and facilitated communication with customers and the community, prioritizing a comprehensive and accessible user experience. Conducted technical research, developed gender-affirming guides, and led over 50 training sessions and support groups for more than 100 clients and providers in the trans+ and intersex community. Collaborated with the nonprofit board and colleagues in operations, finance, and grant departments to complete budgets and grant applications, securing $110,000 in funding."
+      },
+      {
+        "company":"Freelance Film Editor",
+        "title":"Clients include: HBO, Netflix, Warner Brothers, Paramount, Viacom, National Geographic, Peacock",
+        "years":"2015 - Present",
+        "description":"Partnered with major media and entertainment clients to design and execute full-scale productions, earning accolades including the Oscars Shortlist, Sundance, and AFI. Leveraged technical software for editing to develop tests, troubleshoot errors, and refine visual outputs for clients, ensuring that customer feedback was integrated into the final product. Directed operations for over 50 projects and customer accounts across TV, film, commercial, and nonprofit sectors, successfully completing more than 100 productions on time and under budget."
       }
     ],
     "skills":[
@@ -81,11 +74,7 @@
         "level":"60%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
+        "name":"React.Js",
         "level":"50%"
       },
       {
@@ -93,92 +82,44 @@
         "level":"90%"
       },
       {
-        "name":"PHP",
-        "level":"80%"
+        "name":"HTML",
+        "level":"90%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"Playwright",
+        "level":"10%"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"SQL",
+        "level":"60%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"DiscNY Ultimate Frisbee Volunteer Tracker Tool",
+        "category":"Full stack application to efficiently organize volunteer hours and track as redeemable points for activities and events",
         "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://github.com/sydfried42/ultimate-volunteer-tracker"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"DiscNY High School Ultimate Frisbee League Admin Tool",
+        "category":"Full stack application for league registration and organization",
         "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://github.com/sydfried42/DiscNY-High-School-Ultimate-Frisbee-League-Admin-Tool"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Pantry2Plate",
+        "category":"Full stack application allowing users to input pantry items, select desired ingredients, and find recipes",
         "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://plate.sydneylfriedman.com/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
+        "title":"Mario Brick Pygame",
+        "category":"A Mario themed brickbreaker pygame",
         "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":""
       }
     ]
   }

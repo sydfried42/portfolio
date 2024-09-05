@@ -106,43 +106,26 @@ class Contact extends Component {
           <Slide right duration={1000}>
             <aside className="four columns footer-widgets">
               <div className="widget widget_contact">
-                <h4>Address and Phone</h4>
+                <h4>Sydney Friedman</h4>
                 <p className="address">
-                  {name}
-                  <br />
-                  {street} <br />
+                  
                   {city}, {state} {zip}
-                  <br />
-                  <span>{phone}</span>
+                 
+                  
                 </p>
               </div>
 
               <div className="widget widget_tweets">
-                <h4 className="widget-title">Latest Tweets</h4>
+                <h4 className="widget-title">Film Portfolio:</h4>
                 <ul id="twitter">
                   <li>
                     <span>
-                      This is Photoshop's version of Lorem Ipsum. Proin gravida
-                      nibh vel velit auctor aliquet. Aenean sollicitudin, lorem
-                      quis bibendum auctor, nisi elit consequat ipsum
-                      <a href="./">http://t.co/CGIrdxIlI3</a>
+
+                      <a href="./">https://www.sydneyfriedmanedits.com/</a>
                     </span>
-                    <b>
-                      <a href="./">2 Days Ago</a>
-                    </b>
+                    
                   </li>
-                  <li>
-                    <span>
-                      Sed ut perspiciatis unde omnis iste natus error sit
-                      voluptatem accusantium doloremque laudantium, totam rem
-                      aperiam, eaque ipsa quae ab illo inventore veritatis et
-                      quasi
-                      <a href="./">http://t.co/CGIrdxIlI3</a>
-                    </span>
-                    <b>
-                      <a href="./">3 Days Ago</a>
-                    </b>
-                  </li>
+                  
                 </ul>
               </div>
             </aside>
