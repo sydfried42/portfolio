@@ -120,6 +120,12 @@
         "category":"A Mario themed brickbreaker pygame",
         "image":"mario.png",
         "url":"https://github.com/sydfried42/Mario-Brick-PyGame"
+      },
+      {
+        "title":"DBT Emotional Regulation Diary",
+        "category":"An emotion tracking tool",
+        "image":"dbt.png",
+        "url":""
       }
     ]
   }
